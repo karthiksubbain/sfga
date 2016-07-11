@@ -19,3 +19,4 @@ int main()
     char_num(num,n);
     return 0;
 }
+   
